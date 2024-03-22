@@ -8,69 +8,23 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/sayedabdou/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+## 🚀 Greetings, and Welcome to My Personal Portfolio! 🚀
 
+Hey there! I'm Oudjani Seyyid Taqy Eddine, an individual driven by a profound passion for the dynamic realm of computer science, especially in the captivating domain of cybersecurity. Within this repository lies my personal portfolio website, meticulously crafted to embody my journey, skills, and fervor for all things tech.
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+What You'll Discover Here:
 
+🔒 Cybersecurity Explorer: As an aspiring cybersecurity enthusiast, I'm constantly delving into the intriguing landscape of cybersecurity. From ethical hacking endeavors to risk assessments, my portfolio serves as a testament to my progression and experiences in this domain.
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+💻 Code Craftsman: Beyond cybersecurity, I'm deeply committed to the craft of coding. This portfolio showcases my coding proficiency, featuring a plethora of projects, code snippets, and experiments spanning various domains within computer science.
 
+🚀 Tech Enthusiast: Within these digital walls, you'll witness my enthusiasm for emerging technologies, my insights on industry trends, and my unwavering dedication to staying ahead in this ever-evolving tech landscape.
 
-:star: Star me on GitHub — it helps!
+Explore and Connect:
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+Feel free to navigate through my portfolio and gain insights into my skills, experiences, and ongoing projects. If you share my passion for cybersecurity and computer science, let's connect! I'm always eager to collaborate, engage in discussions, and learn from fellow tech enthusiasts like yourself.
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
-
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
-
-
-
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
-
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
+Thanks for dropping by! 🌐✨
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
